@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{875EB994-7362-4AEA-8D29-2AF4292761D3}|..\\TableOfContentGenerator.SDK\\TableOfContentGenerator.SDK.csproj|c:\\users\\cyril\\source\\repos\\tableofcontentgenerator.sdk\\directoryexplorator\\directoryexplorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875EB994-7362-4AEA-8D29-2AF4292761D3}|..\\TableOfContentGenerator.SDK\\TableOfContentGenerator.SDK.csproj|c:\\users\\cyril\\source\\repos\\tableofcontentgenerator.sdk\\tableofcontentgenerator.sdk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F4FC8C-B45F-4005-ADB0-E057A520156B}|..\\TableOfContentGenerator.Tests\\TableOfContentGenerator.Tests.csproj|c:\\users\\cyril\\source\\repos\\tableofcontentgenerator.tests\\tableofcontentgenerator.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875EB994-7362-4AEA-8D29-2AF4292761D3}|..\\TableOfContentGenerator.SDK\\TableOfContentGenerator.SDK.csproj|c:\\users\\cyril\\source\\repos\\tableofcontentgenerator.sdk\\explorationinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875EB994-7362-4AEA-8D29-2AF4292761D3}|..\\TableOfContentGenerator.SDK\\TableOfContentGenerator.SDK.csproj|c:\\users\\cyril\\source\\repos\\tableofcontentgenerator.sdk\\directoryexplorator\\explorationfileinfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F4FC8C-B45F-4005-ADB0-E057A520156B}|..\\TableOfContentGenerator.Tests\\TableOfContentGenerator.Tests.csproj|c:\\users\\cyril\\source\\repos\\tableofcontentgenerator.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875EB994-7362-4AEA-8D29-2AF4292761D3}|..\\TableOfContentGenerator.SDK\\TableOfContentGenerator.SDK.csproj|c:\\users\\cyril\\source\\repos\\tableofcontentgenerator.sdk\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F8B49-2DB1-4636-B159-910AF0425F5E}|TableOfContentGenerator.csproj|c:\\users\\cyril\\source\\repos\\tableofcontentgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F8B49-2DB1-4636-B159-910AF0425F5E}|TableOfContentGenerator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExplorationInfos.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.SDK\\ExplorationInfos.cs",
+              "RelativeDocumentMoniker": "..\\TableOfContentGenerator.SDK\\ExplorationInfos.cs",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.SDK\\ExplorationInfos.cs",
+              "RelativeToolTip": "..\\TableOfContentGenerator.SDK\\ExplorationInfos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:14:40.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExplorationFileInfos.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.SDK\\DirectoryExplorator\\ExplorationFileInfos.cs",
+              "RelativeDocumentMoniker": "..\\TableOfContentGenerator.SDK\\DirectoryExplorator\\ExplorationFileInfos.cs",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.SDK\\DirectoryExplorator\\ExplorationFileInfos.cs",
+              "RelativeToolTip": "..\\TableOfContentGenerator.SDK\\DirectoryExplorator\\ExplorationFileInfos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:11:32.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DirectoryExplorator.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.SDK\\DirectoryExplorator\\DirectoryExplorator.cs",
+              "RelativeDocumentMoniker": "..\\TableOfContentGenerator.SDK\\DirectoryExplorator\\DirectoryExplorator.cs",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.SDK\\DirectoryExplorator\\DirectoryExplorator.cs",
+              "RelativeToolTip": "..\\TableOfContentGenerator.SDK\\DirectoryExplorator\\DirectoryExplorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:02:21.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TableOfContentGenerator.Tests",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.Tests\\TableOfContentGenerator.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\TableOfContentGenerator.Tests\\TableOfContentGenerator.Tests.csproj",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.Tests\\TableOfContentGenerator.Tests.csproj",
+              "RelativeToolTip": "..\\TableOfContentGenerator.Tests\\TableOfContentGenerator.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T10:54:23.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TableOfContentGenerator.SDK",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.SDK\\TableOfContentGenerator.SDK.csproj",
+              "RelativeDocumentMoniker": "..\\TableOfContentGenerator.SDK\\TableOfContentGenerator.SDK.csproj",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.SDK\\TableOfContentGenerator.SDK.csproj",
+              "RelativeToolTip": "..\\TableOfContentGenerator.SDK\\TableOfContentGenerator.SDK.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T10:52:05.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TableOfContentGenerator.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TableOfContentGenerator.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:51:02.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.SDK\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\TableOfContentGenerator.SDK\\Class1.cs",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator.SDK\\Class1.cs",
+              "RelativeToolTip": "..\\TableOfContentGenerator.SDK\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:50:25.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cyril\\source\\repos\\TableOfContentGenerator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:49:30.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
